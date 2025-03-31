@@ -1,0 +1,17 @@
+---
+
+name: GitHub release
+
+on:
+  repository_dispatch:
+    types: [remote_release_trigger]
+
+permissions:
+  contents: write
+
+jobs:
+  github-release:
+    uses: netcracker/qubership-workflow-hub/.github/workflows/release-drafter.yml@main
+    with:
+      version: ${{ github.event.client_payload.version }}
+      publish: true
