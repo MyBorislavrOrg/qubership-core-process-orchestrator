@@ -182,5 +182,17 @@
                 <url>https://maven.pkg.github.com/netcracker/qubership-core-process-orchestrator</url>
             </repository>
 	</distributionManagement>
+    <repositories>
+        <repository>
+            <id>github</id>
+            <url>https://maven.pkg.github.com/netcracker/*</url>
+            <releases>
+                <enabled>true</enabled>
+            </releases>
+            <snapshots>
+                <enabled>true</enabled>
+            </snapshots>
+        </repository>
+    </repositories>
 
 </project>
