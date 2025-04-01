@@ -194,7 +194,7 @@
             </snapshots>
         </repository>
         <repository>
-            <id>github</id>
+            <id>github-nc</id>
             <url>https://maven.pkg.github.com/netcracker/*</url>
             <releases>
                 <enabled>true</enabled>
