@@ -15,9 +15,9 @@
     </properties>
 
      <scm>
-        <connection>scm:git:git@github.com/Netcracker/qubership-core-utils.git</connection>
-        <developerConnection>scm:git:git@github.com/Netcracker/qubership-core-utils.git</developerConnection>
-        <url>https://github.com/Netcracker/qubership-core-utils.git</url>
+        <connection>scm:git:git@github.com/myborislavrorg/qubership-core-utils.git</connection>
+        <developerConnection>scm:git:git@github.com/myborislavrorg/qubership-core-utils.git</developerConnection>
+        <url>https://github.com/myborislavrorg/qubership-core-utils.git</url>
     </scm>
 
     <dependencies>
@@ -179,13 +179,13 @@
 	<distributionManagement>
             <repository>
                 <id>github</id>
-                <url>https://maven.pkg.github.com/netcracker/qubership-core-process-orchestrator</url>
+                <url>https://maven.pkg.github.com/myborislavrorg/qubership-core-process-orchestrator</url>
             </repository>
 	</distributionManagement>
     <repositories>
         <repository>
             <id>github</id>
-            <url>https://maven.pkg.github.com/netcracker/*</url>
+            <url>https://maven.pkg.github.com/myborislavrorg/*</url>
             <releases>
                 <enabled>true</enabled>
             </releases>
