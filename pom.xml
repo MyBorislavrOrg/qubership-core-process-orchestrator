@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.qubership.core</groupId>
     <artifactId>process-engine</artifactId>
-    <version>1.0.2-SNAPSHOT</version>
+    <version>1.0.2</version>
     <name>Process Engine</name>
     <properties>
         <compiler-plugin.version>3.11.0</compiler-plugin.version>
@@ -18,7 +18,7 @@
         <connection>scm:git:https://github.com/myborislavrorg/qubership-core-process-orchestrator.git</connection>
         <developerConnection>scm:git:https://github.com/myborislavrorg/qubership-core-process-orchestrator.git</developerConnection>
         <url>https://github.com/myborislavrorg/qubership-core-process-orchestrator.git</url>
-      <tag>HEAD</tag>
+      <tag>v1.0.2</tag>
   </scm>
 
     <dependencies>
