@@ -15,9 +15,9 @@
     </properties>
 
     <scm>
-        <connection>scm:git:https://github.com/myborislavrorg/qubership-core-utils.git</connection>
-        <developerConnection>scm:git:https://github.com/myborislavrorg/qubership-core-utils.git</developerConnection>
-        <url>https://github.com/myborislavrorg/qubership-core-utils.git</url>
+        <connection>scm:git:https://github.com/myborislavrorg/qubership-core-process-orchestrator.git</connection>
+        <developerConnection>scm:git:https://github.com/myborislavrorg/qubership-core-process-orchestrator.git</developerConnection>
+        <url>https://github.com/myborislavrorg/qubership-core-process-orchestrator.git</url>
     </scm>
 
     <dependencies>
