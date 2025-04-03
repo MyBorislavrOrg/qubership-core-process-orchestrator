@@ -15,8 +15,8 @@
     </properties>
 
     <scm>
-        <connection>scm:git:git@github.com/myborislavrorg/qubership-core-utils.git</connection>
-        <developerConnection>scm:git:git@github.com/myborislavrorg/qubership-core-utils.git</developerConnection>
+        <connection>scm:git:https://github.com/myborislavrorg/qubership-core-utils.git</connection>
+        <developerConnection>scm:git:https://github.com/myborislavrorg/qubership-core-utils.git</developerConnection>
         <url>https://github.com/myborislavrorg/qubership-core-utils.git</url>
     </scm>
 
